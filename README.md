@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="assets/banner.gif" width="700">
+  <img src="https://raw.githubusercontent.com/Youssefsamir6/Youssefsamir6/main/WhatsApp%20Video%202026-07-22%20at%202.47.14%20AM.gif" width="800" alt="Banner">
 </p>
+
 
 
 # Hi, I'm Youssef 👋

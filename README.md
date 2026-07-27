@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
-**Youssefsamir6/Youssefsamir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from Cairo, Egypt with an interest in backend development and cybersecurity.
 
-Here are some ideas to get you started:
+I enjoy building applications that solve real problems, whether that's designing REST APIs, creating inventory systems, or working on AI-powered security projects. I'm always looking to improve my skills and learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working with
+
+- Python
+- Django
+- Node.js & Express
+- JavaScript
+- PostgreSQL & MongoDB
+- React & Next.js
+- Docker
+- Git & GitHub
+
+## Projects
+
+### Smart Access & Monitoring System
+My graduation project. An AI-powered campus security system with face recognition, attendance tracking, access control, and real-time monitoring.
+
+**Built with:** Node.js, Express, JWT, WebSockets
+
+---
+
+### Inventory & Invoicing Management System
+A web application for managing inventory, invoices, customers, and products with QR codes and PDF invoice generation.
+
+**Built with:** Django, PostgreSQL, JavaScript, Tailwind CSS
+
+## Currently Learning
+
+- Cloud & DevOps
+- Kubernetes
+- Backend architecture
+- Blue Team cybersecurity
+
+## Certifications
+
+- Cisco JavaScript Essentials
+- Cisco Cybersecurity Defense Analyst Pathway
+
+## Contact
+
+📍 Cairo, Egypt
+
+📧 youssefrefky66@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
+
+---
+
+Thanks for stopping by!

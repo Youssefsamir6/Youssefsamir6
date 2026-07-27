@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/banner.gif" width="700">
+</p>
+
+
 # Hi, I'm Youssef 👋
 
 I'm a Computer Science graduate from Cairo, Egypt with an interest in backend development and cybersecurity.
